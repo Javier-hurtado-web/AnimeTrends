@@ -25,11 +25,3 @@ Please see the README files in the individual directories for how to get started
 - [Webpack](https://webpack.js.org/) - A JavaScript module bundler  
 - [Yarn](https://yarnpkg.com/en/) - A JavaScript package manager  
 
-
-## Authors
-
-* **Veselin Romić (OmegaVesko)**
-
-## License
-
-This project is licensed under the GPL v3 - see the [LICENSE](LICENSE) file for details.
